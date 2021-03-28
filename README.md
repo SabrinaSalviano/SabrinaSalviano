@@ -8,4 +8,4 @@
 
 ### Sobre mim
 * :school: Graduanda em Análise e Desenvolvimento de Sistemas - IFPB
-* :computer: Téccnica em Informática - EEEP Balbina Viana Arrais 
+* :computer: Técnica em Informática - EEEP Balbina Viana Arrais 
