@@ -6,6 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meu_email)](mailto:sabrina.salviano0934@gmail.com)
 
 
-### Sobre mim
+### Sobre mim:
 * :school: Graduanda em Análise e Desenvolvimento de Sistemas - IFPB
 * :computer: Técnica em Informática - EEEP Balbina Viana Arrais 
